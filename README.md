@@ -20,8 +20,8 @@ Before you begin, ensure you have met the basic requirements:
 ### Clone the repo
 
 ```bash
-git clone https://github.com/GilGirusanda/your-project-name.git
-cd your-project-name
+git clone https://github.com/GilGirusanda/JavaDocumentManager.git
+cd JavaDocumentManager
 ```
 
 ### Build with Maven
