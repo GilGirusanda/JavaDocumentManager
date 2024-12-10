@@ -1,0 +1,31 @@
+# Maven build directory
+/target/
+
+# VS Code settings directory
+.vscode/
+
+# Java build directories
+*.class
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled Java bytecode
+*.class
+
+# Eclipse project files
+.project
+.classpath
